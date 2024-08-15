@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Amarjeet1400
-- 👀 I’m interested in learning full stack developer
-- 🌱 I’m currently learning javascript 
+- 👀 Aspiring Data Scientist | Machine Learning | Data-Driven
+- 🌱 Grateful to be part of the dynamic digital transformation era
+ 
 
 
 <!---
