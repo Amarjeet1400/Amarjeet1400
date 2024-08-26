@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amarjeet1400
 - 👀 Aspiring Data Scientist | Machine Learning | Data-Driven
-- 🌱 Grateful to be part of the dynamic digital transformation era
+- 🌱 Learning Growing and Grateful to be part of the dynamic digital transformation era
  
 
 
