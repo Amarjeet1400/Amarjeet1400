@@ -1,5 +1,5 @@
 
-
+- 👋 Hey, I’m Amarjeet/1400!
 - 📊 I'm **passionate about using data** to solve real-world challenges.
 - 🔬 Worked on projects in fields like **heart disease prediction** and **movie recommendation systems**.
 - 🤖 I enjoy building **AI applications** and exploring new technologies.
